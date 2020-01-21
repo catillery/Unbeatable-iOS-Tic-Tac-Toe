@@ -1,5 +1,5 @@
-# iOS Tic-Tac-Toe
-A simple Tic-Tac-Toe game for iOS mobile devices with an unbeatable AI. Functionality for both player versus player and player versus AI games.
+# Unbeatable iOS Tic-Tac-Toe
+A simple Tic-Tac-Toe game for iOS mobile devices with an unbeatable AI using a minimax algorithm. Functionality for both player versus player and player versus AI games.
 
 ## Getting Started and Executing the Program
 
